@@ -34,3 +34,11 @@ Then to include in another cmake project:
 find_package(myproj)
 target_link_libraries(YourProject myproj::myproj)
 ```
+
+# TODO
+
+Clang format
+
+Pipeline - build run test
+
+gtest
